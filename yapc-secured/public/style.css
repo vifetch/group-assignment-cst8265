@@ -1,0 +1,5 @@
+body{font-family:Arial,sans-serif;max-width:1000px;margin:2rem auto;padding:0 1rem;background:#f5f5f5}
+section{background:white;padding:1.2rem;margin:1rem 0;border-radius:8px}
+input,textarea{width:100%;box-sizing:border-box;margin:.35rem 0 1rem;padding:.6rem}
+button{padding:.6rem 1rem}.danger{background:#fee}.small{font-size:.9rem;color:#555}
+.paste{border-top:1px solid #ddd;padding:1rem 0}.nav{display:flex;gap:1rem}
